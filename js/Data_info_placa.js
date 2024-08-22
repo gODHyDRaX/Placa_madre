@@ -9,12 +9,12 @@ export const dataInfoPlaca = {
             "Rango de precios y configuraciones."
         ],
         ejemplos: [
-            "https://github.com/gODHyDRaX/img/blob/main/descarga%20(3).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/descarga%20(4).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/descarga%20(5).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(3).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(4).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(5).jpg?raw=true"
+            "img/descarga%20(3).jpg",
+            "img/descarga%20(4).jpg",
+            "img/descarga%20(5).jpg",
+            "img/images%20(3).jpg",
+            "img/images%20(4).jpg",
+            "img/images%20(5).jpg"
         ]
     },
     GPU: {
@@ -27,12 +27,12 @@ export const dataInfoPlaca = {
             "Memoria de video (VRAM) dedicada."
         ],
         ejemplos: [
-            "https://github.com/gODHyDRaX/img/blob/main/descarga%20(6).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/descarga%20(7).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(6).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(7).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(8).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(9).jpg?raw=true"
+            "img/descarga%20(6).jpg",
+            "img/descarga%20(7).jpg",
+            "img/images%20(6).jpg",
+            "img/images%20(7).jpg",
+            "img/images%20(8).jpg",
+            "img/images%20(9).jpg"
         ]
     },
     CPU: {
@@ -45,12 +45,12 @@ export const dataInfoPlaca = {
             "Arquitectura eficiente en energía."
         ],
         ejemplos: [
-            "https://github.com/gODHyDRaX/img/blob/main/descarga%20(8).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/descarga%20(9).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(10).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(11).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(12).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(13).jpg?raw=true"
+            "img/descarga%20(8).jpg",
+            "img/descarga%20(9).jpg",
+            "img/images%20(10).jpg",
+            "img/images%20(11).jpg",
+            "img/images%20(12).jpg",
+            "img/images%20(13).jpg"
         ]
     },
     fuentePoder: {
@@ -63,12 +63,12 @@ export const dataInfoPlaca = {
             "Estabilidad de voltaje para componentes críticos."
         ],
         ejemplos: [
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(14).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(15).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(16).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(17).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(18).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(19).jpg?raw=true"
+            "img/images%20(14).jpg",
+            "img/images%20(15).jpg",
+            "img/images%20(16).jpg",
+            "img/images%20(17).jpg",
+            "img/images%20(18).jpg",
+            "img/images%20(19).jpg"
         ]
     },
     placaMadre: {
@@ -81,12 +81,13 @@ export const dataInfoPlaca = {
             "Soporte para tecnologías como Wi-Fi y Bluetooth."
         ],
         ejemplos: [
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(21).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(22).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(23).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(24).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(25).jpg?raw=true",
-            "https://github.com/gODHyDRaX/img/blob/main/images%20(20).jpg?raw=true"
+            "img/images%20(21).jpg",
+            "img/images%20(22).jpg",
+            "img/images%20(23).jpg",
+            "img/images%20(24).jpg",
+            "img/images%20(25).jpg",
+            "img/images%20(20).jpg"
         ]
     }
 };
+    

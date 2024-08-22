@@ -1,5 +1,6 @@
 export const componentes_section = ` 
     <h2>Filtros</h2>
+    <div class="inputs">
     <div class="flt">
         <input type="checkbox" id="checkbox_ranuras">
         <span>Ranuras</span>
@@ -19,6 +20,7 @@ export const componentes_section = `
     <div class="flt">
         <input type="checkbox" id="checkbox_chips">
         <span>Chips</span>
+    </div>
     </div>
    
 `
