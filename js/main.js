@@ -31,7 +31,7 @@ placa.innerHTML = contenido_placa;
 let activeDatabase = partes;
 
 function updateDatabase() {
-    const mediaQuery = window.matchMedia('(max-width: 375px)');
+    const mediaQuery = window.matchMedia('(max-width: 380px)');
     if (mediaQuery.matches) {
         activeDatabase = partes_flex;
     } else {
@@ -85,7 +85,6 @@ document.querySelectorAll('.section input[type="checkbox"]').forEach(checkbox =>
     checkbox.addEventListener('change', actualizarPlaca);
 });
 
-// Modal functionality
 const modal = document.getElementById('modal');
 const modalTitle = document.getElementById('modal-title');
 const modalDescription = document.getElementById('modal-description');
