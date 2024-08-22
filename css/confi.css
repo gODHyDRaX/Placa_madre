@@ -39,7 +39,7 @@
     }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 400px) {
     .root {
         grid-template-columns: 0;
         grid-template-rows: 4rem repeat(8,1fr);

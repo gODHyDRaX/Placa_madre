@@ -31,7 +31,7 @@ placa.innerHTML = contenido_placa;
 let activeDatabase = partes;
 
 function updateDatabase() {
-    const mediaQuery = window.matchMedia('(max-width: 380px)');
+    const mediaQuery = window.matchMedia('(max-width: 400px)');
     if (mediaQuery.matches) {
         activeDatabase = partes_flex;
     } else {
